@@ -7,7 +7,7 @@ A list of Blender 3.0+ resources for Developers ⚡
 
 # Getting started 🎨
 
-This repos is built with the help of [WebXDAO](webxdao.github.com) community.
+This repository is built with the help of the [WebXDAO](https://webxdao.github.io) community.
 
 ## Shortcuts
 
