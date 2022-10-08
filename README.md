@@ -40,6 +40,15 @@ This list all Windows shortcuts for Blender 3.0+
 | <kbd>CTRL</kbd>+<kbd>SPACE</kbd> | Opens menu with manipulator type choices (Press 2, 3, 4, or 5 to change the widget type) |
 | <kbd>ALT</kbd>+<kbd>SPACE</kbd>  | Opens a menu with manipulator orientation choices                                        |
 
+## Transform
+
+|               Keys               | Action                                                                                   |
+| :------------------------------: | :--------------------------------------------------------------------------------------- |
+|          <kbd>G</kbd>          | Grab object                                             |
+|         <kbd>S</kbd>         | scale object                                                               |
+| <kbd>R</kbd> | Rotate object |
+| <kbd>x</kbd>, <kbd>y</kbd> or <kbd>z</kbd> | to `rotate` or `scale` in the relative direction |
+
 ## Apple Shortcuts
 
 This list all Apple OsX shortcuts for Blender 3.0+
