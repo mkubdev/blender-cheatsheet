@@ -40,7 +40,7 @@ This list all Windows shortcuts for Blender 3.0+
 | <kbd>CTRL</kbd>+<kbd>SPACE</kbd> | Opens menu with manipulator type choices (Press 2, 3, 4, or 5 to change the widget type) |
 | <kbd>ALT</kbd>+<kbd>SPACE</kbd>  | Opens a menu with manipulator orientation choices                                        |
 
-## Transform
+## 🧊 Transform
 
 |               Keys               | Action                                                                                   |
 | :------------------------------: | :--------------------------------------------------------------------------------------- |
