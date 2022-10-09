@@ -45,7 +45,7 @@ This list all Windows shortcuts for Blender 3.0+
 |               Keys               | Action                                                                                   |
 | :------------------------------: | :--------------------------------------------------------------------------------------- |
 |          <kbd>G</kbd>          | Grab object                                             |
-|         <kbd>S</kbd>         | scale object                                                               |
+|         <kbd>S</kbd>         | Scale the selected object                                                               |
 | <kbd>R</kbd> | Rotate object |
 | <kbd>x</kbd>, <kbd>y</kbd> or <kbd>z</kbd> | To `rotate` or `scale` in the relative direction |
 
