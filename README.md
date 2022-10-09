@@ -47,7 +47,7 @@ This list all Windows shortcuts for Blender 3.0+
 |          <kbd>G</kbd>          | Grab object                                             |
 |         <kbd>S</kbd>         | scale object                                                               |
 | <kbd>R</kbd> | Rotate object |
-| <kbd>x</kbd>, <kbd>y</kbd> or <kbd>z</kbd> | to `rotate` or `scale` in the relative direction |
+| <kbd>x</kbd>, <kbd>y</kbd> or <kbd>z</kbd> | To `rotate` or `scale` in the relative direction |
 
 ## Apple Shortcuts
 
