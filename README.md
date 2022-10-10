@@ -52,3 +52,9 @@ This list all Windows shortcuts for Blender 3.0+
 ## Apple Shortcuts
 
 This list all Apple OsX shortcuts for Blender 3.0+
+
+## Discord Hangout
+
+There's a lot more to learn! Let's hangout inside my personal labs. 
+
+[![Discord Community](https://discord.com/api/guilds/759721533395697674/widget.png?style=banner2)](https://discord.gg/9pzTHyeJ) 
