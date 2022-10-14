@@ -1,5 +1,5 @@
-[![AWESOME CHEATSHEETS LOGO](img/repos_banner.png)](https://mkubdev.github.io/blender-cheatsheet/)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mkubdev/blender-cheatsheet/blob/master/LICENSE)
+[![AWESOME CHEATSHEETS LOGO](img/repos_banner.png)](https://discord.gg/9pzTHyeJ)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mkubdev/blender-cheatsheet/blob/main/LICENSE)
 
 # Blender Cheatsheet
 
