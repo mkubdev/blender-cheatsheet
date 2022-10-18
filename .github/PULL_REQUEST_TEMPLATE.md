@@ -27,7 +27,7 @@ Example how to mark a checkbox:-
 
 ## How Has This Been Tested?
 
-<!-- Describe how have you verified the changes made -->
+<!-- If applicable, describe how have you verified the changes made -->
 
 ## Checklist
 
