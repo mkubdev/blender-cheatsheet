@@ -16,7 +16,7 @@ Please propose only shortcuts from the official [Blender Documentation](https://
 
 ### Reporting Bugs 💣
 
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝reproduce the behavior 💻 and find related reports 🔎
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
