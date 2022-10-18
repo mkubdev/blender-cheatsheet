@@ -23,6 +23,7 @@ Example how to mark a checkbox:-
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation update.
 - [ ] This change requires a documentation update
+- [ ] Miscellaneous/Other
 
 ## How Has This Been Tested?
 
