@@ -1,26 +1,26 @@
 [![AWESOME CHEATSHEETS LOGO](img/repos_banner.png)](https://discord.gg/9pzTHyeJ)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mkubdev/blender-cheatsheet/blob/main/LICENSE)
 
-# Blender Cheatsheet
+# 📜 Blender Cheatsheet
 
-A list of Blender 3.0+ resources for Developers ⚡
+A list of Blender 3.0+ resources for Developers. ⚡
 
-# Getting started 🎨
+# 🎨 Getting started
 
 This repository is built with the help of the [WebXDAO](https://webxdao.github.io) community.
 
-## Shortcuts
+## ⚡ Shortcuts
 
 Using Blender without shortcuts is a pain, this list contain all shortcuts to ensure you're working efficiently!
 
-- 💻 [I use Windows](#windows-shortcuts)
-- 🍎 [I use Apple](#apple-shortcuts)
+- 💻 [I use Windows](#-windows-shortcuts)
+- 🍎 [I use Apple](#-apple-shortcuts)
 
-## Windows Shortcuts
+## 💻 Windows Shortcuts
 
 This list all Windows shortcuts for Blender 3.0+
 
-## 🖥️ 3D Viewport
+### 🖥️ 3D Viewport
 
 |                 Keys                  | Action                                        |
 | :-----------------------------------: | :-------------------------------------------- |
@@ -31,7 +31,7 @@ This list all Windows shortcuts for Blender 3.0+
 |     <kbd>SHIFT</kbd>+<kbd>`</kbd>     | Toggle Fly mode                               |
 |      <kbd>1</kbd> - <kbd>3</kbd>      | Toggle Camera X - Y - Z axis                  |
 
-## 🍿 Universal
+### 🍿 Universal
 
 |               Keys               | Action                                                                                   |
 | :------------------------------: | :--------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ This list all Windows shortcuts for Blender 3.0+
 | <kbd>CTRL</kbd>+<kbd>SPACE</kbd> | Opens menu with manipulator type choices (Press 2, 3, 4, or 5 to change the widget type) |
 | <kbd>ALT</kbd>+<kbd>SPACE</kbd>  | Opens a menu with manipulator orientation choices                                        |
 
-## 🧊 Transform
+### 🧊 Transform
 
 |               Keys               | Action                                                                                   |
 | :------------------------------: | :--------------------------------------------------------------------------------------- |
@@ -49,11 +49,11 @@ This list all Windows shortcuts for Blender 3.0+
 | <kbd>R</kbd> | Rotate object |
 | <kbd>x</kbd>, <kbd>y</kbd> or <kbd>z</kbd> | To `rotate` or `scale` in the relative direction |
 
-## Apple Shortcuts
+## 🍎 Apple Shortcuts
 
 This list all Apple OsX shortcuts for Blender 3.0+
 
-## Discord Hangout
+## 💬 Discord Hangout
 
 There's a lot more to learn! Let's hangout inside my personal labs. 
 
